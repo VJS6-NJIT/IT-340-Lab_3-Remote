@@ -1,0 +1,34 @@
+commit 771e899e751465ceddd9be37187baa85a16d3a1e
+Author: VJS6-NJIT <vjs6@njit.edu>
+Date:   Fri Feb 13 11:47:30 2026 -0500
+
+    Revert "Added temp file for Part 7."
+    
+    This reverts commit 02f80d734b03a4b27eb843555ec49210ed4867da.
+
+commit 02f80d734b03a4b27eb843555ec49210ed4867da
+Author: VJS6-NJIT <vjs6@njit.edu>
+Date:   Fri Feb 13 11:45:29 2026 -0500
+
+    Added temp file for Part 7.
+
+commit 3d3769d1776bfd0c44b919ddfeebde8cfef30f44
+Author: VJS6-NJIT <vjs6@njit.edu>
+Date:   Fri Feb 13 11:41:52 2026 -0500
+
+    Updated hostname file
+    Added custom comment to hostname for Part 7.
+
+commit a638232c0a996a70c4f4e1ee82a775fa6d0e165f
+Author: VJS6-NJIT <vjs6@njit.edu>
+Date:   Fri Feb 13 11:17:05 2026 -0500
+
+    Updated os-release in experimental branch
+    Appeneded a test message to os-release file for branch testing.
+
+commit 7206dbcf6341b8c1b025c7486fc483d988c6c733
+Author: VJS6-NJIT <vjs6@njit.edu>
+Date:   Fri Feb 13 11:11:10 2026 -0500
+
+    Initial Commit
+    Initial Starting Point of the Repo.
